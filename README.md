@@ -3,7 +3,7 @@
 A fully responsive, SEO-optimised static travel website built with HTML5, CSS3, and JavaScript for the **MANTRA 2026 Summer School Assignment**.
 
 ## 🔗 Live Website
-**Netlify URL:** *([add your Netlify link here after deployment](https://mantratravelwebsite.netlify.app/))*
+**Netlify URL:** *(https://mantratravelwebsite.netlify.app/)*
 
 ## 📁 Project Structure
 
