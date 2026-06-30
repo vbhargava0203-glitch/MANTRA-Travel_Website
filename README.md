@@ -1,28 +1,14 @@
-# MANTRA 2026 Sample Travel Website
+# 🌍 Wanderlust Travels — India Travel Website
 
-This is a beginner-friendly sample frontend website for the MANTRA 2026 Summer School assignment.
+A fully responsive, SEO-optimised static travel website built with HTML5, CSS3, and JavaScript for the **MANTRA 2026 Summer School Assignment**.
 
-## Website Type
-Travel Website
-
-## Technologies Used
-- HTML5
-- CSS3
-- JavaScript
-- GitHub
-- Netlify
-
-## Pages Included
-- Home
-- About
-- Destinations
-- Packages
-- Gallery
-- Booking
-- Contact
+## 🔗 Live Website
+**Netlify URL:** *(add your Netlify link here after deployment)*
 
 ## 📁 Project Structure
-MANTRA Travel_Website/
+
+```
+TravelWebsite/
 ├── index.html          # Home page
 ├── about.html          # About Us page
 ├── destinations.html   # Destinations page
@@ -38,19 +24,56 @@ MANTRA Travel_Website/
 │   ├── kerala.svg
 │   ├── jaipur.svg
 │   ├── shimla.svg
+│   ├── manali.svg
+│   ├── rajasthan.svg
+│   ├── varanasi.svg
+│   └── about.svg
 └── README.md
 ```
-## Features
-- Responsive design for mobile, tablet and desktop
-- SEO tags on every page
-- Image alt text
-- Mobile navigation menu
-- Booking form validation using JavaScript
-- Package cost calculator using JavaScript
-- Gallery filter using JavaScript
 
-## How to Run
-Open `index.html` in any browser.
+## ✅ Assignment Checklist
 
-## 🔗 Live Website
-**Netlify URL:** *(https://mantratravelwebsite.netlify.app/)*
+### Pages (5 required ✅)
+- [x] **Home** — Banner, introduction, highlights, CTA
+- [x] **About** — Agency story, team, values, FAQ accordion
+- [x] **Destinations / Packages** — Tour packages with filterable cards
+- [x] **Gallery** — Responsive image grid with lightbox viewer
+- [x] **Contact / Booking** — Validated forms, map placeholder
+
+### Technical Requirements
+- [x] **HTML5** — Semantic tags (`<nav>`, `<section>`, `<article>`, `<footer>`, `<header>`)
+- [x] **CSS3** — Flexbox, Grid, CSS Variables, media queries
+- [x] **Responsive** — Mobile, tablet, desktop breakpoints (480px, 768px, 1024px)
+- [x] **JavaScript** — Navbar scroll, hamburger menu, gallery lightbox, FAQ accordion, destination filter, form validation with error messages
+- [x] **SEO** — `<title>`, `<meta description>`, `<meta keywords>`, `<h1>`/`<h2>`/`<h3>` hierarchy, `alt` text on all images, semantic HTML, internal links
+- [x] **Deployment** — GitHub + Netlify ready (no build step required)
+
+## 🎨 Design Features
+- Navy blue, ocean, sand, and coral colour palette
+- Google Fonts: Playfair Display (headings) + Inter (body)
+- CSS custom properties for consistent theming
+- Scroll-reveal animations using IntersectionObserver
+- Sticky navbar that changes style on scroll
+- Card hover effects with smooth transitions
+- Back-to-top button
+
+## 🚀 Deployment Instructions
+
+### GitHub
+1. Create a new public repository on GitHub
+2. Upload all files (maintain the folder structure)
+3. Copy the repository URL
+
+### Netlify
+1. Go to [netlify.com](https://www.netlify.com) and sign up/log in
+2. Click **"Add new site" → "Import an existing project"**
+3. Connect to GitHub and select this repository
+4. Leave build settings empty (static site — no build command needed)
+5. Click **"Deploy site"**
+6. Your live URL will be ready in ~60 seconds!
+
+## 👨‍🎓 Assignment Details
+- **Course:** MANTRA 2026 Summer School
+- **Assignment:** Frontend Website Design, SEO, Responsiveness & Netlify Hosting
+- **Topic:** Travel Website
+- **Tech Stack:** HTML5 · CSS3 · JavaScript · GitHub · Netlify
