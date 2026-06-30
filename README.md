@@ -21,6 +21,25 @@ Travel Website
 - Booking
 - Contact
 
+## 📁 Project Structure
+MANTRA Travel_Website/
+├── index.html          # Home page
+├── about.html          # About Us page
+├── destinations.html   # Destinations page
+├── packages.html       # Tour Packages page
+├── gallery.html        # Photo Gallery page
+├── contact.html        # Contact Us page
+├── booking.html        # Tour Booking / Enquiry page
+├── style.css           # All styles (responsive + theme)
+├── script.js           # JavaScript interactivity
+├── images/
+│   ├── hero.svg
+│   ├── goa.svg
+│   ├── kerala.svg
+│   ├── jaipur.svg
+│   ├── shimla.svg
+└── README.md
+```
 ## Features
 - Responsive design for mobile, tablet and desktop
 - SEO tags on every page
@@ -32,15 +51,6 @@ Travel Website
 
 ## How to Run
 Open `index.html` in any browser.
-
-## Netlify Deployment Steps
-1. Create a GitHub repository.
-2. Upload all files from this folder.
-3. Login to Netlify.
-4. Click "Add new site" > "Import an existing project".
-5. Connect GitHub repository.
-6. Deploy the website.
-
 
 ## 🔗 Live Website
 **Netlify URL:** *(https://mantratravelwebsite.netlify.app/)*
