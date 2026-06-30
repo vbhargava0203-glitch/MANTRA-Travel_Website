@@ -1,9 +1,9 @@
-# 🌍 Wanderlust Travels — India Travel Website
+# 🌍 MANTRA TRAVELS
 
 A fully responsive, SEO-optimised static travel website built with HTML5, CSS3, and JavaScript for the **MANTRA 2026 Summer School Assignment**.
 
 ## 🔗 Live Website
-**Netlify URL:** *(add your Netlify link here after deployment)*
+**Netlify URL:** *([add your Netlify link here after deployment](https://mantratravelwebsite.netlify.app/))*
 
 ## 📁 Project Structure
 
@@ -24,10 +24,6 @@ TravelWebsite/
 │   ├── kerala.svg
 │   ├── jaipur.svg
 │   ├── shimla.svg
-│   ├── manali.svg
-│   ├── rajasthan.svg
-│   ├── varanasi.svg
-│   └── about.svg
 └── README.md
 ```
 
