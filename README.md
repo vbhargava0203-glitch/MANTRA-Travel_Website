@@ -40,3 +40,7 @@ Open `index.html` in any browser.
 4. Click "Add new site" > "Import an existing project".
 5. Connect GitHub repository.
 6. Deploy the website.
+
+
+## 🔗 Live Website
+**Netlify URL:** *(https://mantratravelwebsite.netlify.app/)*
