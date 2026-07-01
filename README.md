@@ -60,14 +60,6 @@ TravelWebsite/
 2. Upload all files (maintain the folder structure)
 3. Copy the repository URL
 
-### Netlify
-1. Go to [netlify.com](https://www.netlify.com) and sign up/log in
-2. Click **"Add new site" → "Import an existing project"**
-3. Connect to GitHub and select this repository
-4. Leave build settings empty (static site — no build command needed)
-5. Click **"Deploy site"**
-6. Your live URL will be ready in ~60 seconds!
-
 ## 👨‍🎓 Assignment Details
 - **Course:** MANTRA 2026 Summer School
 - **Assignment:** Frontend Website Design, SEO, Responsiveness & Netlify Hosting
