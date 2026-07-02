@@ -65,3 +65,5 @@ TravelWebsite/
 - **Assignment:** Frontend Website Design, SEO, Responsiveness & Netlify Hosting
 - **Topic:** Travel Website
 - **Tech Stack:** HTML5 · CSS3 · JavaScript · GitHub · Netlify
+
+Submitted for MANTRA 2026 Summer School — Assignment 1.
